@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\C\\source\\repos\\Sparta_CH2_2\\",
+  "WorkspaceRootPath": "C:\\Git\\Sparta_CH2_2\\Sparta_CH2_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7FBCDC1-A528-4DE3-8089-C573E4E65935}|Sparta_CH2_2\\Sparta_CH2_2.vcxproj|C:\\Users\\C\\source\\repos\\Sparta_CH2_2\\Sparta_CH2_2\\CH2_2_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C7FBCDC1-A528-4DE3-8089-C573E4E65935}|Sparta_CH2_2\\Sparta_CH2_2.vcxproj|C:\\Git\\Sparta_CH2_2\\Sparta_CH2_2\\Sparta_CH2_2\\CH2_2_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C7FBCDC1-A528-4DE3-8089-C573E4E65935}|Sparta_CH2_2\\Sparta_CH2_2.vcxproj|solutionrelative:Sparta_CH2_2\\CH2_2_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CH2_2_main.cpp",
-              "DocumentMoniker": "C:\\Users\\C\\source\\repos\\Sparta_CH2_2\\Sparta_CH2_2\\CH2_2_main.cpp",
+              "DocumentMoniker": "C:\\Git\\Sparta_CH2_2\\Sparta_CH2_2\\Sparta_CH2_2\\CH2_2_main.cpp",
               "RelativeDocumentMoniker": "Sparta_CH2_2\\CH2_2_main.cpp",
-              "ToolTip": "C:\\Users\\C\\source\\repos\\Sparta_CH2_2\\Sparta_CH2_2\\CH2_2_main.cpp",
+              "ToolTip": "C:\\Git\\Sparta_CH2_2\\Sparta_CH2_2\\Sparta_CH2_2\\CH2_2_main.cpp",
               "RelativeToolTip": "Sparta_CH2_2\\CH2_2_main.cpp",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAYwKQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-27T00:34:08.425Z",
               "EditorCaption": ""

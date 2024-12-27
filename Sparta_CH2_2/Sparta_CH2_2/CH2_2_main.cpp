@@ -4,12 +4,17 @@
 
 // CH2 OOP Summary 2번 필수 및 도전과제 제출
 
+// 순수 가상 함수를 가진 추상클래스 Animal
+// 생성자는 부모 클래스부터 호출되고, 자식 클래스가 나중에 호출된다.
+// 소멸자는 자식 클래스부터 호출되고, 부모 클래스가 나중에 호출된다.
 class Animal
 {
 public:
 	virtual void makeSound() const = 0;
 };
 
+// Animal을 상속받는 클래스들
+// makeSound()를 재정의
 class Dog : public Animal
 {
 	virtual void makeSound() const override
@@ -135,8 +140,10 @@ int main()
 	Cat cat1;
 	Cow cow1;
 
+	// 포인터 배열
 	Animal* animals[3]{ &dog1, &cat1, &cow1 };
 
+	// 객체 순회 및 소리 출력
 	for (int i = 0; i < 3; ++i)
 	{
 		animals[i]->makeSound();
